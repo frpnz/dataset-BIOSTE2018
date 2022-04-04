@@ -26,8 +26,6 @@ Patients among train and test are different.
 
 Classes
 =======
-AC  = Adenocarcinoma
-
-AD  = Tubulovillous adenoma
-
-H   = Healthy tissue
+- AC: Adenocarcinoma
+- AD: Tubulovillous adenoma
+- H: Healthy tissue
